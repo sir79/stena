@@ -14,6 +14,7 @@ author: Rico Schnydrig
 # --- List of links in the navigation bar --- #
 
 navbar-links:
+  Beschreibung: "stena"
   About Me: "aboutme"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
