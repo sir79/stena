@@ -132,7 +132,7 @@ footer-link-col: "#404040"
 #gtag: ""
 
 # Fill in your Google Analytics ID to track your website using Google Analytics
-google_analytics: "274500185"
+google_analytics: "G-TWP45TKXCC"
 
 # Fill in your Cloudflare Analytics beacon token to track your website using Cloudflare Analytics
 cloudflare_analytics: "9e1e1d09934743818ea614cbd939db43"
